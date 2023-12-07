@@ -5,12 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on how to live
-- 🌱 I’m currently learning Swift
-- 👯 I’m looking to collaborate on something worthwhile.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ever you want
-- 📫 How to reach me: Now U Done
-- 😄 Pronouns: ...
-- ⚡ Fun fact: travel and not at home
+- 🔭 Nothing is everything
 
