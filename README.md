@@ -8,7 +8,6 @@
 
 ### 📫 How to reach me:
 - Email: [bpzhang@example.com](mailto:bpzhang@example.com)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/bpzhang)
 - Twitter: [@bpzhang](https://twitter.com/bpzhang)
 
 ### 🛠 Languages and Tools:
