@@ -23,7 +23,6 @@
 ![bpzhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpzhang&show_icons=true&theme=radical)
 
 ### ✨ Projects and Contributions:
-- [bpzhang](https://github.com/bpzhang/bpzhang): This repository contains various personal projects and experiments.
 - [kube-tide](https://github.com/bpzhang/kube-tide): a Kubernetes DevOps platform
 - [bookmark-checker](https://github.com/bpzhang/bookmark-checker): check your bookmarker in chrome
 
