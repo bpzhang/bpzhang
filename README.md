@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love coding and exploring new tech
 
 ### 📫 How to reach me:
-- Email: [bpzhang@example.com](mailto:bpzhang@example.com)
+- Email: [bpzhang@gmail.com](mailto:bpzhang@gmail.com)
 - Twitter: [@bpzhang](https://twitter.com/bpzhang)
 
 ### 🛠 Languages and Tools:
