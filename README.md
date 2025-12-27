@@ -1,29 +1,29 @@
 # Hi there, I'm bpzhang 👋
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor;Building+reliable+systems+%26+useful+tools)](https://git.io/typing-svg)
 
 </div>
 
 ## 👨‍💻 About Me
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and contributing to open source projects.
+Welcome to my GitHub profile! I'm a developer who enjoys building pragmatic, maintainable software—from web apps to cloud-native infrastructure—and contributing to open source.
 
-- 🔭 **Current Focus:** Nothing is everything - exploring the intersection of simplicity and complexity
-- 🌱 **Learning:** Cloud-native technologies, Kubernetes orchestration, and modern web frameworks
+- 🔭 **Current Focus:** Cloud-native engineering, Kubernetes, and developer experience
+- 🌱 **Learning:** Platform engineering patterns, observability, and modern web frameworks
 - 💬 **Ask me about:** DevOps, Kubernetes, Full-stack development, Cloud architecture
-- ⚡ **Fun fact:** I love coding and exploring new tech - always excited to learn and share knowledge
-- 🎯 **Goal:** Contributing to meaningful open source projects and building tools that make developers' lives easier
+- ⚡ **Fun fact:** I like simplifying complex systems into clear, repeatable workflows
+- 🎯 **Goal:** Build tools that make developers' lives easier and contribute to meaningful open source
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills, Technologies & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -55,12 +55,22 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 ## 📈 GitHub Stats
 
 <div align="center">
-  
+
 <img src="https://github-readme-stats.vercel.app/api?username=bpzhang&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpzhang&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+</div>
+
+## 🏷️ Badges
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=bpzhang&style=flat-square&color=2E9EF7)
+![Followers](https://img.shields.io/github/followers/bpzhang?label=Followers&style=flat-square)
+![Stars](https://img.shields.io/github/stars/bpzhang?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
 
 </div>
 
@@ -89,6 +99,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 
 ![Visitor Count](https://profile-counter.glitch.me/bpzhang/count.svg)
 
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out! 😊**
+**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!**
 
 </div>
