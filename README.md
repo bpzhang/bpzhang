@@ -56,11 +56,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 
 <div align="center">
   
-![bpzhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpzhang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
+<img src="https://github-readme-stats.vercel.app/api?username=bpzhang&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bpzhang&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bpzhang&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
