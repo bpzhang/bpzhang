@@ -69,7 +69,6 @@ Welcome to my GitHub profile! I'm a developer who enjoys building pragmatic, mai
 
 </div>
 
-> 💡 **注意**: 如果图片未显示，请先运行 GitHub Actions workflow 生成统计图片。
 
 ## 🏷️ Badges
 
