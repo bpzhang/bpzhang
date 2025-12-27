@@ -56,11 +56,23 @@ Welcome to my GitHub profile! I'm a developer who enjoys building pragmatic, mai
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bpzhang&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=bpzhang&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=bpzhang&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bpzhang&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+</picture>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=default&hide_border=false&langs_count=8" />
+  <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" />
+</picture>
 
-<img src="https://streak-stats.demolab.com/?user=bpzhang&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bpzhang&theme=tokyonight&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bpzhang&theme=default&hide_border=false" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bpzhang&theme=tokyonight&hide_border=false" />
+</picture>
 
 </div>
 
