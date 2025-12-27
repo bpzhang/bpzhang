@@ -56,11 +56,11 @@ Welcome to my GitHub profile! I'm a developer who enjoys building pragmatic, mai
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bpzhang&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=bpzhang&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bpzhang&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=bpzhang&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
@@ -96,8 +96,6 @@ Welcome to my GitHub profile! I'm a developer who enjoys building pragmatic, mai
 ---
 
 <div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/bpzhang/count.svg)
 
 **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!**
 
