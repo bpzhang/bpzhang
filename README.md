@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+C...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
@@ -56,9 +56,9 @@ Welcome to my GitHub profile! I'm a developer who enjoys building pragmatic, mai
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bpzhang&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bpzhang&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=bpzhang&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
