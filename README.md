@@ -56,25 +56,20 @@ Welcome to my GitHub profile! I'm a developer who enjoys building pragmatic, mai
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=bpzhang&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=bpzhang&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bpzhang&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-</picture>
+<!-- GitHub Stats Card - 使用本地生成的 SVG，首次需要手动运行 workflow -->
+<!-- 如果本地图片不存在，会显示占位符 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=default&hide_border=false&langs_count=8" />
-  <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bpzhang&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" />
-</picture>
+<a href="https://github.com/bpzhang">
+  <img src="./stats/github-stats.svg" alt="GitHub Stats" />
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bpzhang&theme=tokyonight&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bpzhang&theme=default&hide_border=false" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bpzhang&theme=tokyonight&hide_border=false" />
-</picture>
+<a href="https://github.com/bpzhang">
+  <img src="./stats/languages.svg" alt="Top Languages" />
+</a>
 
 </div>
+
+> 💡 **注意**: 如果图片未显示，请先运行 GitHub Actions workflow 生成统计图片。
 
 ## 🏷️ Badges
 
