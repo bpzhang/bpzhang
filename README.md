@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a developer who enjoys building pragmatic, mai
 <div align="center">
 
 <!-- GitHub Stats Card - 使用本地生成的 SVG，首次需要手动运行 workflow -->
-<!-- 如果本地图片不存在，会显示占位符 -->
+<!-- 如果本地图片不存在，���显示占位符 -->
 
 <a href="https://github.com/bpzhang">
   <img src="./stats/github-stats.svg" alt="GitHub Stats" />
@@ -104,5 +104,6 @@ Welcome to my GitHub profile! I'm a developer who enjoys building pragmatic, mai
 </div>
 
 <div align="center">
-  <img src="./stats/qr-code.png" alt="Buy me a coffee QR code" />
+  <p>If you’d like to support my work, you can buy me a coffee ☕️</p>
+  <img src="./stats/qr-code.png" alt="Buy me a coffee QR code" width="160" />
 </div>
