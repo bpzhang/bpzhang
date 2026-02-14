@@ -102,3 +102,7 @@ Welcome to my GitHub profile! I'm a developer who enjoys building pragmatic, mai
 **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!**
 
 </div>
+
+<div align="center">
+  <img src="./stats/qr-code.png" alt="Buy me a coffee QR code" />
+</div>
