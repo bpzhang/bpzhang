@@ -2,17 +2,17 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Backend+%26+Platform+Engineer;Java+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Go;Kubernetes%2C+DevOps+%26+SaaS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Full+Stack+%2F+AWS+%2F+ML;Backend+%26+Platform+Engineer;Java+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Go;Kubernetes%2C+DevOps+%26+SaaS)](https://git.io/typing-svg)
 
 </div>
 
 ## 👨‍💻 About Me
 
-I build backend systems, developer platforms, and the glue that keeps them running. Most of my work lives in **Java services**, with **Python** for automation, **TypeScript** for consoles, and **Go** for infrastructure.
+I'm a **full-stack** engineer spanning product UIs, Java/Python backends, **AWS** cloud, and **ML** pipelines. Day to day I also ship platforms, CI/CD, and restaurant / franchisee SaaS.
 
-- 🔭 **Current focus:** Kubernetes platforms, CI/CD, and restaurant / franchisee SaaS
+- 🔭 **Current focus:** Full-stack product work, AWS, ML, Kubernetes platforms, and franchisee SaaS
 - 🛠️ **How I work:** 55 original repos — mostly private product and ops code, plus a few public tools
-- 💬 **Ask me about:** Java services, Nacos, Kubernetes, Aliyun automation, distributed IDs / delayed jobs
+- 💬 **Ask me about:** Full-stack apps, AWS, ML, Java services, Kubernetes, Aliyun automation
 - ⚡ **Fun fact:** I keep a lot of “small sharp tools” around — scripts, Chrome extensions, macOS utilities
 - 📍 US
 
@@ -22,11 +22,13 @@ Mapped from my original repositories (not forks):
 
 | Area | Stack | What it covers |
 | --- | --- | --- |
+| **Full stack** | TypeScript · JavaScript · Java · Python | Web consoles, Chrome extensions, dine portals, end-to-end product surfaces |
+| **AWS & Cloud** | AWS · Aliyun · Docker · K8s | Cloud architecture, CI/CD, base images, multi-cluster ops |
+| **ML & Data** | Python · Pandas · scikit-learn | Data cleanup, ordering intelligence, trend / model-assisted pipelines |
 | **Platform & Kubernetes** | Go · TypeScript · Python | Multi-cluster consoles, cluster ops, control-plane style platforms |
-| **DevOps & Cloud** | Python · Dockerfile | CI/CD, Aliyun automation, base images |
 | **Restaurant & Commerce SaaS** | Java · TypeScript | Franchisee billing/settlement, dine portals, takeout, marketing rules |
 | **Distributed systems** | Java · Go | Snowflake / ID generation, delayed jobs, Nacos, RPC, API routing |
-| **Developer tools** | Python · JavaScript · Swift · Ruby | Repo sync, bookmark tools, floating macOS kits, data cleanup |
+| **Developer tools** | Python · JavaScript · Swift · Ruby | Repo sync, bookmark tools, floating macOS kits |
 
 Public originals are linked below. Most other work is private.
 
@@ -43,17 +45,25 @@ Public originals are linked below. Most other work is private.
 ### Backend
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Nacos](https://img.shields.io/badge/-Nacos-2E9EF7?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### DevOps & Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Aliyun](https://img.shields.io/badge/-Aliyun-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Aliyun](https://img.shields.io/badge/-Aliyun-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
