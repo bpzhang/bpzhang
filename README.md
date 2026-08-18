@@ -83,38 +83,18 @@ Public repositories worth a look:
 ### [distributed-tools](https://github.com/bpzhang/distributed-tools)
 🧩 Java utilities around distributed systems — the public counterpart to ID generation, routing, and similar service building blocks.
 
-## 📦 Repo snapshot
-
-| | Count |
-| --- | ---: |
-| Original repositories | 55 |
-| Forks | 48 |
-| Public originals | 9 |
-| Private originals | 46 |
-
-**Language mix (original repos):** Java (25) · Python (8) · TypeScript (5) · JavaScript (4) · Go (3) · Swift (2)
-
 ## 📈 GitHub Stats
 
+Numbers below come from the GitHub API on **original (non-fork) repos**, including private ones. Languages are by source bytes, not repo count.
+
 <div align="center">
-
-<a href="https://github.com/bpzhang">
   <img src="./stats/github-stats.svg" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/bpzhang">
   <img src="./stats/languages.svg" alt="Top Languages" />
-</a>
-
 </div>
-
-## 🏷️ Badges
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bpzhang&style=flat-square&color=2E9EF7)
-![Followers](https://img.shields.io/github/followers/bpzhang?label=Followers&style=flat-square)
-![Stars](https://img.shields.io/github/stars/bpzhang?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
 
 </div>
 
